@@ -29,3 +29,4 @@ for A in [0,1]:
             f = (A and B) or not C
             print(A, B, C, int(f))
 
+print("-" * 20)
