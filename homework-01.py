@@ -1,5 +1,6 @@
 # Задание №1.
 # ¬(A ∧ B) ∨ ¬(A ∨ C)
+print ("Задание №1:")
 print ("A B C f")
 for A in [0,1]:
     for B in [0,1]:
@@ -11,6 +12,7 @@ print("-" * 20)
 
 # Задание №2.
 # (A ∧ B) ∨ (¬B ∧ C)
+print ("Задание №2:")
 print ("A B C f")
 for A in [0,1]:
     for B in [0,1]:
@@ -22,6 +24,7 @@ print("-" * 20)
 
 # Задание №3.
 # (A ∧ B) ∨ ¬C
+print ("Задание №3:")
 print("A B C f")
 for A in [0,1]:
     for B in [0,1]:
