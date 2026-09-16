@@ -18,7 +18,7 @@ for A in [0,1]:
             f = (A and B) or (not B and C)
             print(A, B, C, int(f))
 
-
+print("-" * 20)
 
 # Задание №3.
 # (A ∧ B) ∨ ¬C
